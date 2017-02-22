@@ -1,0 +1,13 @@
+{
+  "name": "test-2",
+  "version": "1.0.0",
+  "peerDependencies": {
+    "test-1": ">= 1"
+  },
+  "devDependencies": {
+    "grunt": "1.0.1",
+    "jquery": "2.1.4",
+    "lodash": "3.10.1",
+    "test-1": "../test-1"
+  }
+}
